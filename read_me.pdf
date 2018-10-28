@@ -1,0 +1,1 @@
+We can clearly see that in failure_2 figure both the eigen vectors are parallel which is against independency. PCA fails in such cases
